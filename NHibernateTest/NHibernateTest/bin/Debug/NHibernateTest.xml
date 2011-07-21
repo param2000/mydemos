@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NHibernateTest
+</name>
+</assembly>
+<members>
+<member name="M:NHibernateTest.Module1.BuildOurDatabase(NHibernate.Cfg.Configuration)">
+	<summary>
+ Build a Database for Us if Create is Called 
+ </summary>
+	<param name="config">NHibernate Configuration</param>
+	<remarks></remarks>
+</member><member name="M:NHibernateTest.Module1.ConnectionProperties(FluentNHibernate.Cfg.Db.MsSqlConnectionStringBuilder)">
+	<summary>
+ Database Name, Server and Atleast trusted connection
+ </summary>
+	<param name="csb"></param>
+	<remarks></remarks>
+</member><member name="M:NHibernateTest.Module1.MapIt(FluentNHibernate.Cfg.MappingConfiguration)">
+	<summary>
+ Telling the fluent to
+ Find mapping in the same assembly as BabMap
+ 
+ </summary>
+	<param name="cfg"></param>
+	<remarks></remarks>
+</member><member name="T:NHibernateTest.BabMap">
+	<summary>
+ Mapping Class for fluent To Use
+ 
+ </summary>
+	<remarks>Still needs more clarificatin of what happened here ?</remarks>
+</member>
+</members>
+</doc>

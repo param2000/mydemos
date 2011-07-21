@@ -1,0 +1,7 @@
+C:\Projects\massTransitDemo\mt_class\Messages\bin\Release\Messages.dll
+C:\Projects\massTransitDemo\mt_class\Messages\bin\Release\Messages.pdb
+C:\Projects\massTransitDemo\mt_class\Messages\bin\Release\Messages.xml
+C:\Projects\massTransitDemo\mt_class\Messages\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\massTransitDemo\mt_class\Messages\obj\Release\Messages.dll
+C:\Projects\massTransitDemo\mt_class\Messages\obj\Release\Messages.xml
+C:\Projects\massTransitDemo\mt_class\Messages\obj\Release\Messages.pdb

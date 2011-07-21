@@ -1,0 +1,92 @@
+2010-10-05 09:26:11,224 [INFO] - Registering transport 'MsmqEndpoint' to schema 'msmq'
+2010-10-05 09:26:11,603 [DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription
+2010-10-05 09:26:11,604 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription going to msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,613 [INFO] - SEND:msmq://sellersd/mt_pubsub:AddSubscription
+2010-10-05 09:26:11,661 [DEBUG] - Message Sent: Id = ef82b612-4f67-4b1f-810e-0a573ea9000d\42196, Message Type = AddSubscription
+2010-10-05 09:26:11,662 [DEBUG] - ServiceBus is listening on msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,666 [DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription
+2010-10-05 09:26:11,666 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription going to msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,666 [INFO] - SEND:msmq://sellersd/mt_pubsub:AddSubscription
+2010-10-05 09:26:11,666 [DEBUG] - Message Sent: Id = ef82b612-4f67-4b1f-810e-0a573ea9000d\42197, Message Type = AddSubscription
+2010-10-05 09:26:11,666 [DEBUG] - ServiceBus is listening on msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,668 [DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateResponse
+2010-10-05 09:26:11,668 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateResponse going to msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,668 [INFO] - SEND:msmq://sellersd/mt_pubsub:AddSubscription
+2010-10-05 09:26:11,668 [DEBUG] - Message Sent: Id = ef82b612-4f67-4b1f-810e-0a573ea9000d\42198, Message Type = AddSubscription
+2010-10-05 09:26:11,668 [DEBUG] - ServiceBus is listening on msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,669 [INFO] - SEND:msmq://sellersd/mt_pubsub:CacheUpdateRequest
+2010-10-05 09:26:11,669 [DEBUG] - Message Sent: Id = ef82b612-4f67-4b1f-810e-0a573ea9000d\42199, Message Type = CacheUpdateRequest
+2010-10-05 09:26:11,685 [DEBUG] - ServiceBus is listening on msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,685 [DEBUG] - ServiceBus is listening on msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,685 [DEBUG] - ServiceBus is listening on msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,685 [INFO] - SEND:msmq://sellersd/mt_pubsub:CacheUpdateRequest
+2010-10-05 09:26:11,685 [DEBUG] - Message Sent: Id = ef82b612-4f67-4b1f-810e-0a573ea9000d\42200, Message Type = CacheUpdateRequest
+2010-10-05 09:26:11,694 [DEBUG] - Adding new local subscription list for message Messages.SampleMessage
+2010-10-05 09:26:11,694 [DEBUG] - Adding new local subscription for Messages.SampleMessage going to msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,694 [INFO] - SEND:msmq://sellersd/mt_pubsub:AddSubscription
+2010-10-05 09:26:11,694 [DEBUG] - Message Sent: Id = ef82b612-4f67-4b1f-810e-0a573ea9000d\42201, Message Type = AddSubscription
+2010-10-05 09:26:11,694 [INFO] - SEND:msmq://sellersd/mt_pubsub:AddSubscription
+2010-10-05 09:26:11,695 [DEBUG] - Message Sent: Id = ef82b612-4f67-4b1f-810e-0a573ea9000d\42202, Message Type = AddSubscription
+2010-10-05 09:26:11,695 [DEBUG] - ServiceBus is listening on msmq://sellersd/mt_subscriber
+2010-10-05 09:26:11,879 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42205
+2010-10-05 09:26:11,880 [INFO] - RECV:msmq://sellersd/mt_subscriber:CacheUpdateResponse:ef82b612-4f67-4b1f-810e-0a573ea9000d\42205
+2010-10-05 09:26:11,892 [DEBUG] - Created Thread 11, Total Threads = 1
+2010-10-05 09:26:11,894 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42206
+2010-10-05 09:26:11,894 [INFO] - RECV:msmq://sellersd/mt_subscriber:CacheUpdateResponse:ef82b612-4f67-4b1f-810e-0a573ea9000d\42206
+2010-10-05 09:26:11,896 [DEBUG] - Created Thread 12, Total Threads = 2
+2010-10-05 09:26:11,898 [DEBUG] - Starting Thread 11
+2010-10-05 09:26:11,903 [DEBUG] - Starting Thread 12
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription going to msmq://sellersd/mt_pubsub
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription going to msmq://sellersd/mt_publisher
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription going to msmq://sellersd/mt_pubsub
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription going to msmq://sellersd/mt_publisher
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.CancelSubscriptionUpdates
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CancelSubscriptionUpdates going to msmq://sellersd/mt_pubsub
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateRequest
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateRequest going to msmq://sellersd/mt_pubsub
+2010-10-05 09:26:11,918 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateResponse going to msmq://sellersd/mt_publisher
+2010-10-05 09:26:11,968 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42207
+2010-10-05 09:26:11,968 [INFO] - RECV:msmq://sellersd/mt_subscriber:AddSubscription:ef82b612-4f67-4b1f-810e-0a573ea9000d\42207
+2010-10-05 09:26:11,969 [DEBUG] - Created Thread 13, Total Threads = 3
+2010-10-05 09:26:11,970 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42208
+2010-10-05 09:26:11,970 [INFO] - RECV:msmq://sellersd/mt_subscriber:AddSubscription:ef82b612-4f67-4b1f-810e-0a573ea9000d\42208
+2010-10-05 09:26:11,970 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateResponse going to msmq://sellersd/mt_publisher
+2010-10-05 09:26:11,970 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription going to msmq://sellersd/mt_publisher
+2010-10-05 09:26:11,978 [DEBUG] - Starting Thread 13
+2010-10-05 09:26:11,979 [DEBUG] - Created Thread 14, Total Threads = 4
+2010-10-05 09:26:11,980 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42213
+2010-10-05 09:26:11,980 [INFO] - RECV:msmq://sellersd/mt_subscriber:AddSubscription:ef82b612-4f67-4b1f-810e-0a573ea9000d\42213
+2010-10-05 09:26:11,980 [DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription going to msmq://sellersd/mt_publisher
+2010-10-05 09:26:11,982 [DEBUG] - Starting Thread 14
+2010-10-05 09:26:11,983 [DEBUG] - Created Thread 15, Total Threads = 5
+2010-10-05 09:26:11,984 [DEBUG] - Starting Thread 15
+2010-10-05 09:26:14,729 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42215
+2010-10-05 09:26:14,730 [INFO] - RECV:msmq://sellersd/mt_subscriber:SampleMessage:ef82b612-4f67-4b1f-810e-0a573ea9000d\42215
+2010-10-05 09:26:14,730 [DEBUG] - Created Thread 16, Total Threads = 6
+2010-10-05 09:26:14,734 [DEBUG] - Starting Thread 16
+2010-10-05 09:26:19,879 [DEBUG] - ExitingThread 12
+2010-10-05 09:26:19,879 [DEBUG] - ExitingThread 14
+2010-10-05 09:26:19,879 [DEBUG] - ExitingThread 13
+2010-10-05 09:26:19,879 [DEBUG] - ExitingThread 16
+2010-10-05 09:26:19,879 [DEBUG] - ExitingThread 15
+2010-10-05 09:26:22,891 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42216
+2010-10-05 09:26:22,892 [INFO] - RECV:msmq://sellersd/mt_subscriber:SampleMessage:ef82b612-4f67-4b1f-810e-0a573ea9000d\42216
+2010-10-05 09:26:22,892 [DEBUG] - Created Thread 17, Total Threads = 2
+2010-10-05 09:26:22,893 [DEBUG] - Starting Thread 17
+2010-10-05 09:26:23,459 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42217
+2010-10-05 09:26:23,459 [INFO] - RECV:msmq://sellersd/mt_subscriber:SampleMessage:ef82b612-4f67-4b1f-810e-0a573ea9000d\42217
+2010-10-05 09:26:23,460 [DEBUG] - Created Thread 18, Total Threads = 3
+2010-10-05 09:26:23,461 [DEBUG] - Starting Thread 18
+2010-10-05 09:26:23,796 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42218
+2010-10-05 09:26:23,796 [INFO] - RECV:msmq://sellersd/mt_subscriber:SampleMessage:ef82b612-4f67-4b1f-810e-0a573ea9000d\42218
+2010-10-05 09:26:23,797 [DEBUG] - Created Thread 19, Total Threads = 4
+2010-10-05 09:26:23,798 [DEBUG] - Starting Thread 19
+2010-10-05 09:26:24,116 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42219
+2010-10-05 09:26:24,116 [INFO] - RECV:msmq://sellersd/mt_subscriber:SampleMessage:ef82b612-4f67-4b1f-810e-0a573ea9000d\42219
+2010-10-05 09:26:24,117 [DEBUG] - Created Thread 20, Total Threads = 5
+2010-10-05 09:26:24,118 [DEBUG] - Starting Thread 20
+2010-10-05 09:26:24,388 [DEBUG] - Queue: FormatName:DIRECT=OS:sellersd\private$\mt_subscriber Received Message Id ef82b612-4f67-4b1f-810e-0a573ea9000d\42220
+2010-10-05 09:26:24,389 [INFO] - RECV:msmq://sellersd/mt_subscriber:SampleMessage:ef82b612-4f67-4b1f-810e-0a573ea9000d\42220
+2010-10-05 09:26:24,429 [DEBUG] - Created Thread 21, Total Threads = 6
+2010-10-05 09:26:24,430 [DEBUG] - Starting Thread 21
+2010-10-05 09:26:27,894 [DEBUG] - ExitingThread 17

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="92FBED54-9C44-4786-A8FC-F5A60012E7E7" ModuleId="Subscriber" />
+  <Module PersistentId="39A4425D-BCA1-4EB6-9B96-5189504DA07B" ModuleId="Publisher" />
+  <Module PersistentId="72F7BEAE-0DAF-4C8E-937A-5F8A54857390" ModuleId="Messages" />
+</Modules>

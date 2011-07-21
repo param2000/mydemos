@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FHLBank.UamIntegration.ApplicationRole">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQCAggAABAgAgAAAIAABAQAEAAAAAAEAAAAIAQAAAA=</HashCode>
+      <FileName>ApplicationRole.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.ContactInfo">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAQAIgCAABAAAAAAAQAAAgAAACAAACAAAAEAAEAA=</HashCode>
+      <FileName>ContactInfo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.County">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAADAAAAAAAAAAIgAAAAAAAAAABAAA=</HashCode>
+      <FileName>County.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.Entity" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAQAgAgAAAAAAAAAAAAAASACAAAAAEAQIAAAE=</HashCode>
+      <FileName>Entity.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.EntityMap">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAQAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>EntityMap.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.EntityMembership">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAQAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>EntityMembership.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.Institution">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJQiAAgQBKAwQODInYAxQiaAUEABCCSFCEiQBAACIYA=</HashCode>
+      <FileName>Institution.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.PostalAddress">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAQAAgCsAAAAIEAAgQIAAgAAICAABGAAABQAABAA=</HashCode>
+      <FileName>PostalAddress.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.State">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAACAAAAAAAAAAAAAAAAAAAAAEBAAA=</HashCode>
+      <FileName>State.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.User">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAIAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>User.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.UserAccount">
+    <Position X="5.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ILAwAECSAJCHAMDAaDAbBAKEGEAkAAAlCCgYIgQCIAo=</HashCode>
+      <FileName>UserAccount.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHLBank.UamIntegration.UserApplicationRole">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAgAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserApplicationRole.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

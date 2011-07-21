@@ -1,0 +1,32 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1128" fromTop="37" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1302" fromTop="11" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1302" fromTop="24" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="927" fromTop="18" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1023" fromTop="22" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="498" fromTop="10" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="303" fromTop="6" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="221" fromTop="6" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1300" fromTop="11" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1167" fromTop="4" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="820" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

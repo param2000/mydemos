@@ -1,0 +1,91 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:IEmployeeTask.cs" caret="157" fromTop="6" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:IEmployee.cs" caret="218" fromTop="9" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:Employee.cs" caret="415" fromTop="15" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:IDbProviderFactory.cs" caret="194" fromTop="8" />
+      <File id="66501709-3590-47B9-A417-2D668702A5E0/f:App.config" caret="432" fromTop="10" />
+      <File id="66501709-3590-47B9-A417-2D668702A5E0/d:Service/f:EmployeeTaskTest.cs" caret="520" fromTop="18" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="1710" fromTop="26" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="127" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="684" fromTop="15" />
+      <File id="66501709-3590-47B9-A417-2D668702A5E0/d:Service/f:EmployeeTaskTest.cs" caret="538" fromTop="13" />
+      <File id="66501709-3590-47B9-A417-2D668702A5E0/d:Service/f:EmployeeTaskTest.cs" caret="295" fromTop="2" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="559" fromTop="2" />
+      <File id="66501709-3590-47B9-A417-2D668702A5E0/d:Service/f:EmployeeTaskTest.cs" caret="546" fromTop="13" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="1874" fromTop="20" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="849" fromTop="11" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="935" fromTop="13" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="741" fromTop="12" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="608" fromTop="7" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:IDbProviderFactory.cs" caret="0" fromTop="0" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:IDbProviderFactory.cs" caret="185" fromTop="7" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="449" fromTop="13" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="15" fromTop="1" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="324" fromTop="12" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="1244" fromTop="12" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="1594" fromTop="19" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="1488" fromTop="12" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="900" fromTop="7" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="1235" fromTop="12" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="1578" fromTop="9" />
+      <File id="66501709-3590-47B9-A417-2D668702A5E0/d:Service/f:EmployeeTaskTest.cs" caret="50" fromTop="2" />
+      <File id="84ED27DE-9674-4247-9AD4-557939B3B0B4/f:EmployeeTask.cs" caret="174" fromTop="7" />
+      <File id="66501709-3590-47B9-A417-2D668702A5E0/d:Service/f:EmployeeTaskTest.cs" caret="196" fromTop="8" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="440" fromTop="8" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="682" fromTop="17" />
+      <File id="98F711B6-EBBE-47DC-86B8-9363806FD604/f:DBProviderFactory.cs" caret="572" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="0" />
+      <Item value="IEmployeeService" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="service" priority="0" />
+      <Item value="IEmployeeService`0" priority="2" />
+      <Item value="EmployeeService`0" priority="1" />
+      <Item value="using" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="Collections" priority="1" />
+      <Item value="Generic" priority="1" />
+      <Item value="IList" priority="2" />
+      <Item value="DateTime" priority="0" />
+      <Item value="SqlConnection" priority="1" />
+      <Item value="SqlCommand" priority="0" />
+      <Item value="CommandType" priority="0" />
+      <Item value="SqlDataReader" priority="0" />
+      <Item value="Console" priority="1" />
+      <Item value="Debug" priority="0" />
+      <Item value="IDbConnection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MbUnit.Framework.Assert">
+      <Item value="IsTrue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

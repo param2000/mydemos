@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="D9428268-D49D-4E94-838F-00DB14683747" ModuleId="NHibernateTest" />
+  <Module PersistentId="EA9A00F5-3660-4825-B0C1-7863281A0391" ModuleId="BuildDataBaseUsingNHibernate" />
+</Modules>

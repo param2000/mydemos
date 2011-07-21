@@ -1,0 +1,183 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/d:Consumers/f:NewCustomerMessageConsumer.cs" caret="0" fromTop="0" />
+      <File id="C1334E2A-E6D1-4E3A-B6E7-542D818670CD/f:NewCustomerMessage.cs" caret="57" fromTop="2" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:windsor.xml" caret="0" fromTop="0" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:windsor.xml" caret="0" fromTop="0" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:Program.cs" caret="526" fromTop="18" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="842" fromTop="26" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="1097" fromTop="32" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="1097" fromTop="27" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="1097" fromTop="44" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="1097" fromTop="43" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="996" fromTop="21" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="1097" fromTop="15" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/d:Consumers/f:NewCustomerMessageConsumer.cs" caret="0" fromTop="0" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:Program.cs" caret="798" fromTop="21" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="1026" fromTop="29" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:windsor.xml" caret="0" fromTop="17" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:windsor.xml" caret="484" fromTop="20" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:Program.cs" caret="320" fromTop="11" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/d:Consumers/f:NewCustomerMessageConsumer.cs" caret="298" fromTop="9" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="994" fromTop="26" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="463" fromTop="14" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="40" fromTop="1" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:Program.cs" caret="778" fromTop="24" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:windsor.xml" caret="431" fromTop="15" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:windsor.xml" caret="115" fromTop="8" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:windsor.xml" caret="430" fromTop="15" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:windsor.xml" caret="115" fromTop="8" />
+      <File id="86957A7B-9A95-45E5-A662-55101156F2FD/f:Program.cs" caret="526" fromTop="18" />
+      <File id="D740F567-E517-4056-AB28-6BE6CAC6DEF0/f:Program.cs" caret="842" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="3" />
+      <Item value="string" priority="6" />
+      <Item value="test" priority="2" />
+      <Item value="container" priority="12" />
+      <Item value="new" priority="8" />
+      <Item value="var" priority="14" />
+      <Item value="IServiceBus" priority="4" />
+      <Item value="bus" priority="8" />
+      <Item value="void" priority="1" />
+      <Item value="NewCustomerService" priority="2" />
+      <Item value="newCustomerMessage" priority="1" />
+      <Item value="Console" priority="10" />
+      <Item value="INewCustomerService" priority="0" />
+      <Item value="newCustomerService" priority="1" />
+      <Item value="NewCustomerMessage" priority="1" />
+      <Item value="Name" priority="2" />
+      <Item value="ThreadStaticAttribute" priority="1" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="static" priority="7" />
+      <Item value="return" priority="2" />
+      <Item value="ContainerBuilder" priority="0" />
+      <Item value="while" priority="2" />
+      <Item value="name" priority="0" />
+      <Item value="message" priority="3" />
+      <Item value="private" priority="3" />
+      <Item value="bool" priority="2" />
+      <Item value="Consumes" priority="0" />
+      <Item value="NewCustomerMessageConsumer" priority="0" />
+      <Item value="Threading" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="currentMessage" priority="1" />
+      <Item value="lock" priority="2" />
+      <Item value="messageAvailable" priority="2" />
+      <Item value="true" priority="0" />
+      <Item value="staticLock" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="Logger" priority="1" />
+      <Item value="WindsorObjectBuilder" priority="1" />
+      <Item value="DefaultMassTransitContainer" priority="0" />
+      <Item value="IObjectBuilder" priority="0" />
+      <Item value="IEndpointFactory" priority="1" />
+      <Item value="endpointFactory" priority="1" />
+      <Item value="objectBuilder" priority="0" />
+      <Item value="Component" priority="1" />
+      <Item value="Trace" priority="0" />
+      <Item value="config" priority="0" />
+      <Item value="for" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.IWindsorContainer">
+      <Item value="Resolve" priority="5" />
+      <Item value="Register" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.IServiceBus">
+      <Item value="Subscribe" priority="2" />
+      <Item value="Publish" priority="2" />
+      <Item value="Dispose" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="9" />
+      <Item value="ReadLine" priority="2" />
+      <Item value="KeyAvailable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.Play.Messages.NewCustomerMessage">
+      <Item value="Name" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.MicroKernel.Registration.Component">
+      <Item value="For" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.ComponentRegistration`1">
+      <Item value="ImplementedBy" priority="1" />
+      <Item value="LifeStyle" priority="0" />
+      <Item value="Instance" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.Play.Services.INewCustomerService">
+      <Item value="Process" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="0" />
+      <Item value="Sleep" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MassTransit.Play.Publisher.ContainerBuilder">
+      <Item value="Build" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.WindsorIntegration.DefaultMassTransitContainer">
+      <Item value="Register" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MassTransit.Play.Subscriber.ContainerBuilder">
+      <Item value="Build" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.Play.Subscriber.Services.INewCustomerService">
+      <Item value="Process" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MassTransit.Consumes`1">
+      <Item value="All" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.Lifestyle.LifestyleGroup`1">
+      <Item value="Transient" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MassTransit.Play.Subscriber.Logger">
+      <Item value="HasMessage" priority="0" />
+      <Item value="GetMessage" priority="0" />
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="1" />
+      <Item value="from" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.WindsorContainer">
+      <Item value="Kernel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.Configuration.IEndpointFactoryConfigurator">
+      <Item value="SetObjectBuilder" priority="0" />
+      <Item value="RegisterTransport" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Trace">
+      <Item value="WriteLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MassTransit.Transports.Msmq.MsmqEndpointConfigurator">
+      <Item value="Defaults" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.Transports.Msmq.IMsmqEndpointDefaults">
+      <Item value="CreateMissingQueues" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

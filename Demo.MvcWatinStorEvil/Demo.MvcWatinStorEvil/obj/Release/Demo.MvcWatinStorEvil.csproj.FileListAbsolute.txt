@@ -1,0 +1,5 @@
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\bin\Demo.MvcWatinStorEvil.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\bin\Demo.MvcWatinStorEvil.pdb
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Release\Demo.MvcWatinStorEvil.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Release\Demo.MvcWatinStorEvil.pdb

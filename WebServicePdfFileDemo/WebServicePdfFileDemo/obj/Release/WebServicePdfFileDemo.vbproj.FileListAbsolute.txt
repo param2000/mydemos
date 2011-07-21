@@ -1,0 +1,10 @@
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\bin\WebServicePdfFileDemo.dll
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\bin\WebServicePdfFileDemo.pdb
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\bin\WebServicePdfFileDemo.xml
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\obj\Release\WebServicePdfFileDemo.Resources.resources
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\obj\Release\WebServicePdfFileDemo.dll
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\obj\Release\WebServicePdfFileDemo.xml
+C:\Projects\WebServicePdfFileDemo\WebServicePdfFileDemo\obj\Release\WebServicePdfFileDemo.pdb

@@ -1,0 +1,29 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:Default.aspx" caret="482" fromTop="10" />
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:Default.aspx.vb" caret="354" fromTop="9" />
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:FileService.asmx.vb" caret="789" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:Default.aspx" caret="701" fromTop="15" />
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:Default.aspx.vb" caret="373" fromTop="7" />
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:Default.aspx" caret="723" fromTop="10" />
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:Default.aspx" caret="482" fromTop="10" />
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:Default.aspx.vb" caret="385" fromTop="10" />
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:FileService.asmx.vb" caret="1059" fromTop="19" />
+      <File id="CBEB2883-7F9D-46E3-B11D-1FBDABB60122/f:FileService.asmx.vb" caret="789" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

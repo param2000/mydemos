@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit
+END
+MassTransit.SubscriptionStorage.XML
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.SubscriptionStorage.XML
+END
+MassTransit.ServiceBus.XML
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.ServiceBus.XML
+END
+MassTransit.ServiceBus.MSMQ.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.ServiceBus.MSMQ.pdb
+END
+MassTransit.SubscriptionStorage.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.SubscriptionStorage.pdb
+END
+MassTransit.WindsorIntegration.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.WindsorIntegration.pdb
+END
+MassTransit.ServiceBus.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.ServiceBus.pdb
+END
+MassTransit.ServiceBus.MSMQ.dll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.ServiceBus.MSMQ.dll
+END
+MassTransit.SubscriptionStorage.dll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.SubscriptionStorage.dll
+END
+MassTransit.WindsorIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.WindsorIntegration.dll
+END
+MassTransit.ServiceBus.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.ServiceBus.dll
+END
+MassTransit.ServiceBus.MSMQ.XML
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/MassTransit/MassTransit.ServiceBus.MSMQ.XML
+END

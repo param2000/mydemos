@@ -1,0 +1,40 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.designer.vb" caret="0" fromTop="0" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx" caret="0" fromTop="0" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:UserFunctions.vb" caret="55" fromTop="1" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:LdapLookup.vb" caret="1733" fromTop="7" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:LdapUser.vb" caret="39" fromTop="0" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.vb" caret="5165" fromTop="29" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:LdapUser.vb" caret="2852" fromTop="0" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx" caret="339" fromTop="7" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx" caret="1154" fromTop="27" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.vb" caret="0" fromTop="1" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.vb" caret="5165" fromTop="36" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.vb" caret="5154" fromTop="15" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.vb" caret="361" fromTop="6" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:UserFunctions.vb" caret="1477" fromTop="4" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.vb" caret="5039" fromTop="14" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.vb" caret="5165" fromTop="17" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:UserFunctions.vb" caret="1477" fromTop="36" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:LdapUser.vb" caret="2852" fromTop="36" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:LdapLookup.vb" caret="2888" fromTop="36" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/d:LdapStuff/f:LdapUser.vb" caret="39" fromTop="0" />
+      <File id="193BB24A-16B9-4B36-8EDA-77DE629DB4E7/f:Default.aspx.vb" caret="5165" fromTop="29" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

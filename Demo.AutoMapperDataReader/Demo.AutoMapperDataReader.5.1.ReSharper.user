@@ -1,0 +1,41 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1007" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1850" fromTop="11" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1138" fromTop="18" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="501" fromTop="10" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1813" fromTop="38" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1937" fromTop="39" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1993" fromTop="42" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="2141" fromTop="44" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1576" fromTop="15" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="1452" fromTop="17" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="908" fromTop="26" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="176" fromTop="4" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="400" fromTop="11" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="638" fromTop="17" />
+      <File id="C88DE420-99DE-461F-9D50-B9A2AA4658CC/f:Class1.vb" caret="828" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

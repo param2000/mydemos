@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/NAnt/lib/common/neutral
+END
+NUnitCore.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/NAnt/lib/common/neutral/NUnitCore.dll
+END
+NDoc.Documenter.Msdn.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/NAnt/lib/common/neutral/NDoc.Documenter.Msdn.dll
+END
+ICSharpCode.SharpZipLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/NAnt/lib/common/neutral/ICSharpCode.SharpZipLib.dll
+END
+NDoc.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/NAnt/lib/common/neutral/NDoc.Core.dll
+END
+NDoc.ExtendedUI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/NAnt/lib/common/neutral/NDoc.ExtendedUI.dll
+END
+ICSharpCode.SharpCvsLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/NAnt/lib/common/neutral/ICSharpCode.SharpCvsLib.dll
+END
+ICSharpCode.SharpCvsLib.Console.dll
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/FHLBank-RevalIntegration/!svn/ver/4/Branches/Release1/ThirdParty/NAnt/lib/common/neutral/ICSharpCode.SharpCvsLib.Console.dll
+END

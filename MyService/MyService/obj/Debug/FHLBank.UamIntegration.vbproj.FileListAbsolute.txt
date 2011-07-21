@@ -1,0 +1,7 @@
+C:\Projects\MyService\MyService\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MyService\MyService\bin\MyService.dll
+C:\Projects\MyService\MyService\bin\MyService.pdb
+C:\Projects\MyService\MyService\bin\MyService.xml
+C:\Projects\MyService\MyService\obj\Debug\MyService.dll
+C:\Projects\MyService\MyService\obj\Debug\MyService.xml
+C:\Projects\MyService\MyService\obj\Debug\MyService.pdb

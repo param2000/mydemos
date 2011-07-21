@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<castle>
+  <components>
+    
+  </components>
+
+  <facilities>
+    <facility id="masstransit">
+      <bus id="publisher" endpoint="msmq://localhost/mt_publisher">
+        <subscriptionService endpoint="msmq://localhost/mt_pubsub"/>
+      </bus>
+      <transports>
+        <transport>MassTransit.ServiceBus.MSMQ.MsmqEndpoint, Masstransit.ServiceBus.MSMQ</transport>
+      </transports>
+    </facility>
+  </facilities>
+</castle>

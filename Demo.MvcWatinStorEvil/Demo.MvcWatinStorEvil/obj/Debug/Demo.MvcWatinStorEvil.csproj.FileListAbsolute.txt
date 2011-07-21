@@ -1,0 +1,10 @@
+D:\Development\Demos\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\bin\Demo.MvcWatinStorEvil.dll
+D:\Development\Demos\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\bin\Demo.MvcWatinStorEvil.pdb
+D:\Development\Demos\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Demos\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Debug\Demo.MvcWatinStorEvil.dll
+D:\Development\Demos\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Debug\Demo.MvcWatinStorEvil.pdb
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\bin\Demo.MvcWatinStorEvil.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\bin\Demo.MvcWatinStorEvil.pdb
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Debug\Demo.MvcWatinStorEvil.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil\obj\Debug\Demo.MvcWatinStorEvil.pdb

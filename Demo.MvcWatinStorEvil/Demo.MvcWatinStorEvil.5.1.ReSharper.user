@@ -1,0 +1,52 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Features/f:security.feature" caret="310" fromTop="13" />
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Context/f:SignInContext.vb" caret="839" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Context/f:SignInContext.vb" caret="442" fromTop="16" />
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Context/f:SignInContext.vb" caret="672" fromTop="35" />
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Context/f:SignInContext.vb" caret="672" fromTop="18" />
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Context/f:SignInContext.vb" caret="407" fromTop="7" />
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Context/f:SignInContext.vb" caret="340" fromTop="11" />
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Features/f:security.feature" caret="292" fromTop="13" />
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Context/f:SignInContext.vb" caret="894" fromTop="22" />
+      <File id="E423BE1A-D876-4765-8607-7E574A88CE92/d:Context/f:SignInContext.vb" caret="792" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="if" priority="0" />
+      <Item value="model" priority="1" />
+      <Item value="MembershipCreateStatus" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="null" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Demo.MvcWatinStorEvil.Models.LogOnModel">
+      <Item value="UserName" priority="0" />
+      <Item value="Password" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.MembershipCreateStatus">
+      <Item value="UserRejected" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

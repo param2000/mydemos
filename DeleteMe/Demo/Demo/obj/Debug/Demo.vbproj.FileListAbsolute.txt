@@ -1,0 +1,8 @@
+C:\Projects\Demo\Demo\bin\Debug\Demo.dll
+C:\Projects\Demo\Demo\bin\Debug\Demo.pdb
+C:\Projects\Demo\Demo\bin\Debug\Demo.xml
+C:\Projects\Demo\Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Demo\Demo\obj\Debug\Demo.dll
+C:\Projects\Demo\Demo\obj\Debug\Demo.xml
+C:\Projects\Demo\Demo\obj\Debug\Demo.pdb
+C:\Projects\Demo\Demo\bin\Debug\log4net.dll

@@ -1,0 +1,96 @@
+[INFO] - Registering transport 'MsmqEndpoint' to schema 'msmq'
+[DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription going to msmq://raloowallp/mt_publisher
+[INFO] - SEND:msmq://raloowallp/mt_pubsub:AddSubscription
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2102, Message Type = AddSubscription
+[DEBUG] - ServiceBus is listening on msmq://raloowallp/mt_publisher
+[DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription going to msmq://raloowallp/mt_publisher
+[INFO] - SEND:msmq://raloowallp/mt_pubsub:AddSubscription
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2104, Message Type = AddSubscription
+[DEBUG] - ServiceBus is listening on msmq://raloowallp/mt_publisher
+[DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateResponse
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateResponse going to msmq://raloowallp/mt_publisher
+[INFO] - SEND:msmq://raloowallp/mt_pubsub:AddSubscription
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2105, Message Type = AddSubscription
+[DEBUG] - ServiceBus is listening on msmq://raloowallp/mt_publisher
+[INFO] - SEND:msmq://raloowallp/mt_pubsub:CacheUpdateRequest
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2106, Message Type = CacheUpdateRequest
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2100
+[DEBUG] - Adding new local subscription list for message Messages.PongMessage
+[DEBUG] - Adding new local subscription for Messages.PongMessage going to msmq://raloowallp/mt_publisher
+[INFO] - SEND:msmq://raloowallp/mt_pubsub:AddSubscription
+[INFO] - RECV:msmq://raloowallp/mt_publisher:CacheUpdateResponse:9a507f34-b594-4a25-bfdd-28f02918db7d\2100
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2107, Message Type = AddSubscription
+[DEBUG] - ServiceBus is listening on msmq://raloowallp/mt_publisher
+[DEBUG] - Created Thread 11, Total Threads = 1
+[DEBUG] - Starting Thread 11
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription going to msmq://raloowallp/mt_pubsub
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription going to msmq://raloowallp/mt_subscriber
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription going to msmq://raloowallp/mt_pubsub
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription going to msmq://raloowallp/mt_subscriber
+[DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.CancelSubscriptionUpdates
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CancelSubscriptionUpdates going to msmq://raloowallp/mt_pubsub
+[DEBUG] - Adding new local subscription list for message MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateRequest
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateRequest going to msmq://raloowallp/mt_pubsub
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateResponse going to msmq://raloowallp/mt_subscriber
+[DEBUG] - Adding new local subscription list for message Messages.PingMessage
+[DEBUG] - Adding new local subscription for Messages.PingMessage going to msmq://raloowallp/mt_subscriber
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2111
+[INFO] - RECV:msmq://raloowallp/mt_publisher:CacheUpdateResponse:9a507f34-b594-4a25-bfdd-28f02918db7d\2111
+[DEBUG] - Created Thread 12, Total Threads = 2
+[DEBUG] - Starting Thread 12
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2114
+[INFO] - RECV:msmq://raloowallp/mt_publisher:AddSubscription:9a507f34-b594-4a25-bfdd-28f02918db7d\2114
+[DEBUG] - Created Thread 13, Total Threads = 3
+[DEBUG] - Starting Thread 13
+[DEBUG] - Adding new local subscription for Messages.PingMessage going to msmq://raloowallp/mt_subscriber
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2118
+[INFO] - RECV:msmq://raloowallp/mt_publisher:AddSubscription:9a507f34-b594-4a25-bfdd-28f02918db7d\2118
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.AddSubscription going to msmq://raloowallp/mt_subscriber
+[DEBUG] - Created Thread 14, Total Threads = 4
+[DEBUG] - Starting Thread 14
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2119
+[INFO] - RECV:msmq://raloowallp/mt_publisher:AddSubscription:9a507f34-b594-4a25-bfdd-28f02918db7d\2119
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.RemoveSubscription going to msmq://raloowallp/mt_subscriber
+[DEBUG] - Created Thread 15, Total Threads = 5
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2120
+[DEBUG] - Starting Thread 15
+[INFO] - RECV:msmq://raloowallp/mt_publisher:AddSubscription:9a507f34-b594-4a25-bfdd-28f02918db7d\2120
+[DEBUG] - Adding new local subscription for MassTransit.ServiceBus.Subscriptions.Messages.CacheUpdateResponse going to msmq://raloowallp/mt_subscriber
+[DEBUG] - Created Thread 16, Total Threads = 6
+[DEBUG] - Starting Thread 16
+[INFO] - SEND:msmq://raloowallp/mt_subscriber:PingMessage
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2122, Message Type = PingMessage
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2123
+[INFO] - RECV:msmq://raloowallp/mt_publisher:PongMessage:9a507f34-b594-4a25-bfdd-28f02918db7d\2123
+[DEBUG] - Created Thread 17, Total Threads = 7
+[DEBUG] - Starting Thread 17
+[DEBUG] - ExitingThread 13
+[DEBUG] - ExitingThread 12
+[DEBUG] - ExitingThread 14
+[DEBUG] - ExitingThread 16
+[DEBUG] - ExitingThread 15
+[INFO] - SEND:msmq://raloowallp/mt_subscriber:PingMessage
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2124, Message Type = PingMessage
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2125
+[INFO] - RECV:msmq://raloowallp/mt_publisher:PongMessage:9a507f34-b594-4a25-bfdd-28f02918db7d\2125
+[DEBUG] - Created Thread 18, Total Threads = 3
+[DEBUG] - Starting Thread 18
+[INFO] - SEND:msmq://raloowallp/mt_subscriber:PingMessage
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2126, Message Type = PingMessage
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2127
+[INFO] - RECV:msmq://raloowallp/mt_publisher:PongMessage:9a507f34-b594-4a25-bfdd-28f02918db7d\2127
+[DEBUG] - Created Thread 19, Total Threads = 4
+[DEBUG] - Starting Thread 19
+[INFO] - SEND:msmq://raloowallp/mt_subscriber:PingMessage
+[DEBUG] - Message Sent: Id = 9a507f34-b594-4a25-bfdd-28f02918db7d\2128, Message Type = PingMessage
+[DEBUG] - Queue: FormatName:DIRECT=OS:raloowallp\private$\mt_publisher Received Message Id 9a507f34-b594-4a25-bfdd-28f02918db7d\2129
+[INFO] - RECV:msmq://raloowallp/mt_publisher:PongMessage:9a507f34-b594-4a25-bfdd-28f02918db7d\2129
+[DEBUG] - Created Thread 20, Total Threads = 5
+[DEBUG] - Starting Thread 20
+[DEBUG] - ExitingThread 17
+[DEBUG] - ExitingThread 18
+[DEBUG] - ExitingThread 19
+[DEBUG] - ExitingThread 11
+[DEBUG] - ExitingThread 20

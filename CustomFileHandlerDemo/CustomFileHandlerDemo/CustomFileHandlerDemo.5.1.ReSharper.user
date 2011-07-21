@@ -1,0 +1,24 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="17E25924-36B1-429E-BC57-DBA42A15750F/d:Providers/f:MyMembershipProvider.cs" caret="4583" fromTop="11" />
+      <File id="17E25924-36B1-429E-BC57-DBA42A15750F/d:User/f:Default.aspx" caret="729" fromTop="14" />
+      <File id="17E25924-36B1-429E-BC57-DBA42A15750F/f:Login.aspx.cs" caret="181" fromTop="7" />
+      <File id="17E25924-36B1-429E-BC57-DBA42A15750F/d:Providers/f:MyRoleProvider.cs" caret="1987" fromTop="28" />
+      <File id="17E25924-36B1-429E-BC57-DBA42A15750F/d:Handlers/f:FileProtectionHandler.cs" caret="2726" fromTop="36" />
+      <File id="17E25924-36B1-429E-BC57-DBA42A15750F/f:Web.config" caret="5886" fromTop="48" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,5 @@
+C:\Projects\DEMOS\DesignPatterns\DesignPattern.Domain\bin\Debug\DesignPattern.Domain.dll
+C:\Projects\DEMOS\DesignPatterns\DesignPattern.Domain\bin\Debug\DesignPattern.Domain.pdb
+C:\Projects\DEMOS\DesignPatterns\DesignPattern.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\DEMOS\DesignPatterns\DesignPattern.Domain\obj\Debug\DesignPattern.Domain.dll
+C:\Projects\DEMOS\DesignPatterns\DesignPattern.Domain\obj\Debug\DesignPattern.Domain.pdb

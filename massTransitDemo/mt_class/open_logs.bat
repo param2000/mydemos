@@ -1,0 +1,1 @@
+.\thirdparty\tail\baretail.exe .\logs\sub.log .\logs\pub.log

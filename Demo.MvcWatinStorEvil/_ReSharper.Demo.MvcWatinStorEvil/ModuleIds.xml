@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="02CA528F-B30E-444C-9199-79E5C862E3CE" ModuleId="Demo.MvcWatinStorEvil" />
+  <Module PersistentId="E423BE1A-D876-4765-8607-7E574A88CE92" ModuleId="Demo.MvcWatinStorEvil.Specs" />
+</Modules>

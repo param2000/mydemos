@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KeithRull.FolderBrowserVB">
+</Property><Property Name="Solution File" Value="C:\Projects\DisplayfilesInFolderDemo\FolderBrowserVB\KeithRull.FolderBrowserVB.sln">
+</Property><Property Name="Date" Value="Tuesday, November 23, 2010">
+</Property><Property Name="Time" Value="14:50:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="KeithRull.FolderBrowserVB" Source="Global.asax.vb.old" Description="backup file created">
+</Event><Event ErrorLevel="3" Project="KeithRull.FolderBrowserVB" Source="Global.asax.vb" Description="Converted">
+</Event><Event ErrorLevel="3" Project="KeithRull.FolderBrowserVB" Source="KeithRull.FolderBrowserVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KeithRull.FolderBrowserVB" Source="KeithRull.FolderBrowserVB.vbproj" Description="You have completed the first step in converting your Visual Studio .NET 2003 web project. To complete the conversion, please select your project in the Solution Explorer and choose the 'Convert to Web Application' context menu item.">
+</Event></UpgradeLog>

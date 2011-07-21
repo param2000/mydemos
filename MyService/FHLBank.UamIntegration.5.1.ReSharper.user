@@ -1,0 +1,38 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:PermissionScope.vb" caret="302" fromTop="5" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:InstitutionData.vb" caret="73" fromTop="1" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:ApplicationRole.vb" caret="57" fromTop="2" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:Entity.vb" caret="1667" fromTop="23" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:ApplicationError.vb" caret="84" fromTop="2" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:UAMDirectoryServices.asmx.vb" caret="38159" fromTop="78" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:UAMDirectoryServices.asmx" caret="0" fromTop="0" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:User.vb" caret="38" fromTop="1" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:ListCountiesCompletedEventArgs.vb" caret="354" fromTop="6" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:WSDL.xml" caret="17585" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:UAMDirectoryServices.asmx.vb" caret="14787" fromTop="12" />
+      <File id="AB34CA49-353F-4AAD-B85D-E18C4E1C6FDA/f:ListCountiesCompletedEventArgs.vb" caret="225" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

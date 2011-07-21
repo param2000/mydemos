@@ -1,0 +1,1 @@
+wsdl /l:vb /n:FHLBank.UamIntegration uam.wsdl

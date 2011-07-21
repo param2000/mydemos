@@ -1,0 +1,10 @@
+C:\Projects\LdapTester\LdapTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\LdapTester\LdapTester\obj\Debug\LdapTester.Resources.resources
+C:\Projects\LdapTester\LdapTester\obj\Debug\LdapTester.vbproj.GenerateResource.Cache
+C:\Projects\LdapTester\LdapTester\bin\LdapTester.dll
+C:\Projects\LdapTester\LdapTester\bin\LdapTester.pdb
+C:\Projects\LdapTester\LdapTester\bin\LdapTester.xml
+C:\Projects\LdapTester\LdapTester\bin\log4net.dll
+C:\Projects\LdapTester\LdapTester\obj\Debug\LdapTester.dll
+C:\Projects\LdapTester\LdapTester\obj\Debug\LdapTester.xml
+C:\Projects\LdapTester\LdapTester\obj\Debug\LdapTester.pdb

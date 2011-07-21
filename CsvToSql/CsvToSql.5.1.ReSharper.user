@@ -1,0 +1,33 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="3644" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="1895" fromTop="7" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="2505" fromTop="17" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="2313" fromTop="9" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="2438" fromTop="11" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="3079" fromTop="16" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="4712" fromTop="33" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="3435" fromTop="9" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="3888" fromTop="16" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="4385" fromTop="19" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="1382" fromTop="22" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="1603" fromTop="11" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="3253" fromTop="6" />
+      <File id="55B063E1-00DC-4E4C-9AD3-7CB6F7943F70/f:Form1.vb" caret="99" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

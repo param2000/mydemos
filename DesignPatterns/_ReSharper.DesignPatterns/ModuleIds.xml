@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="66501709-3590-47B9-A417-2D668702A5E0" ModuleId="DesignPatterns.Tests" />
+  <Module PersistentId="98F711B6-EBBE-47DC-86B8-9363806FD604" ModuleId="DesignPattern.DataAccess" />
+  <Module PersistentId="72923F1D-49E8-4E42-8D6E-A2327D37B39B" ModuleId="DesignPattern.Domain" />
+  <Module PersistentId="84ED27DE-9674-4247-9AD4-557939B3B0B4" ModuleId="DesignPattern.Tasks" />
+</Modules>

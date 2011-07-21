@@ -1,0 +1,15 @@
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\Demo.MvcWatinStorEvil.Specs.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\Demo.MvcWatinStorEvil.Specs.pdb
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\Demo.MvcWatinStorEvil.Specs.xml
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\Interop.SHDocVw.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\nunit.framework.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\StorEvil.Core.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\WatiN.Core.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\WatiN.Core.UnitTests.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\Spark.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\Funq.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\bin\Release\WatiN.Core.xml
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\obj\Release\Demo.MvcWatinStorEvil.Specs.dll
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\obj\Release\Demo.MvcWatinStorEvil.Specs.xml
+C:\Projects\Demo.MvcWatinStorEvil\Demo.MvcWatinStorEvil.Specs\obj\Release\Demo.MvcWatinStorEvil.Specs.pdb

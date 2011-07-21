@@ -1,0 +1,41 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx" caret="1126" fromTop="29" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Encryption64.aspx.vb" caret="1523" fromTop="28" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="619" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="249" fromTop="7" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="18" fromTop="0" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="235" fromTop="9" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="621" fromTop="38" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="249" fromTop="7" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="249" fromTop="4" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="0" fromTop="0" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="1068" fromTop="38" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="16" fromTop="0" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="278" fromTop="21" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="249" fromTop="15" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx" caret="709" fromTop="8" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx" caret="1126" fromTop="9" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx" caret="769" fromTop="9" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="300" fromTop="10" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="123" fromTop="4" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="431" fromTop="14" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="588" fromTop="18" />
+      <File id="C11EA344-1CAC-44A2-8208-A6E4C44334FA/f:Default.aspx.vb" caret="1068" fromTop="33" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

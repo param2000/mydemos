@@ -1,0 +1,10 @@
+C:\Projects\WebApplication1\WebApplication1\bin\Encryption.dll
+C:\Projects\WebApplication1\WebApplication1\bin\Encryption.pdb
+C:\Projects\WebApplication1\WebApplication1\bin\Encryption.xml
+C:\Projects\WebApplication1\WebApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\WebApplication1\WebApplication1\obj\Release\Encryption.Resources.resources
+C:\Projects\WebApplication1\WebApplication1\obj\Release\GenerateResource.read.1.tlog
+C:\Projects\WebApplication1\WebApplication1\obj\Release\GenerateResource.write.1.tlog
+C:\Projects\WebApplication1\WebApplication1\obj\Release\Encryption.dll
+C:\Projects\WebApplication1\WebApplication1\obj\Release\Encryption.xml
+C:\Projects\WebApplication1\WebApplication1\obj\Release\Encryption.pdb

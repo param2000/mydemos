@@ -1,0 +1,45 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="72F7BEAE-0DAF-4C8E-937A-5F8A54857390/f:PingMessage.vb" caret="92" fromTop="5" />
+      <File id="72F7BEAE-0DAF-4C8E-937A-5F8A54857390/f:PongMessage.vb" caret="83" fromTop="2" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:Program.vb" caret="1304" fromTop="45" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:log4net.config" caret="556" fromTop="12" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:sub.castle.xml" caret="310" fromTop="10" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:pub.castle.xml" caret="469" fromTop="14" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:Program.vb" caret="452" fromTop="9" />
+      <File id="1D9916B2-854D-4362-AEB2-57C10AE32A00/f:ReadMeFIRST.txt/l:C!?Projects?DEMOS?massTransitDemo?mt_class?ReadMeFIRST.txt" caret="354" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:pub.castle.xml" caret="71" fromTop="2" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:Program.vb" caret="1295" fromTop="30" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:Program.vb" caret="1173" fromTop="16" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:pub.castle.xml" caret="451" fromTop="16" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:pub.castle.xml" caret="208" fromTop="7" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:Program.vb" caret="462" fromTop="6" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:Program.vb" caret="377" fromTop="10" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:sub.castle.xml" caret="449" fromTop="13" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:sub.castle.xml" caret="203" fromTop="7" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:Program.vb" caret="375" fromTop="13" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:Program.vb" caret="921" fromTop="26" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:Program.vb" caret="1142" fromTop="30" />
+      <File id="72F7BEAE-0DAF-4C8E-937A-5F8A54857390/f:PingMessage.vb" caret="73" fromTop="2" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:Program.vb" caret="1680" fromTop="27" />
+      <File id="72F7BEAE-0DAF-4C8E-937A-5F8A54857390/f:PongMessage.vb" caret="117" fromTop="3" />
+      <File id="39A4425D-BCA1-4EB6-9B96-5189504DA07B/f:Program.vb" caret="865" fromTop="16" />
+      <File id="92FBED54-9C44-4786-A8FC-F5A60012E7E7/f:Program.vb" caret="1540" fromTop="27" />
+      <File id="1D9916B2-854D-4362-AEB2-57C10AE32A00/f:ReadMeFIRST.txt/l:C!?Projects?DEMOS?massTransitDemo?mt_class?ReadMeFIRST.txt" caret="294" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

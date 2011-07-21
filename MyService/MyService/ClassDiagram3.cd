@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Enum Name="FHLBank.UamIntegration.BankType">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAIQAAAQACCAAQAAAAAAAAAAAABA=</HashCode>
+      <FileName>BankType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.CharterType">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAEAAABEAAABA=</HashCode>
+      <FileName>CharterType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.ContactInfoType">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAgIEAEAEEAEAAQAAAAAABAAESAAAAACAACIAA=</HashCode>
+      <FileName>ContactInfoType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.CraRating">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAABAAAAAAEAAAAAAAAAAAAAEAAIAAAAAAAAA=</HashCode>
+      <FileName>CraRating.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.EntityAction">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAIIAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>EntityAction.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.InstitutionType">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>InstitutionType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.InsuranceType">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAAAAAAAAACAAAAAAAGAAAAAAAAAAAAAAAADA=</HashCode>
+      <FileName>InsuranceType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.MppPartType">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAACBA=</HashCode>
+      <FileName>MppPartType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.OwnershipType">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAIAgAAAAAAAAAAAAEAAABA=</HashCode>
+      <FileName>OwnershipType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.PermissionScope">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAQAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PermissionScope.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.PostalAddressType">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAAgAAAAAAAAAAAQAAACAAQAAAAAAAAAEACAAAA=</HashCode>
+      <FileName>PostalAddressType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.RegulatorType">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAABAAAABA=</HashCode>
+      <FileName>RegulatorType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FHLBank.UamIntegration.ReportingAgencyType">
+    <Position X="4.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAABAAAABA=</HashCode>
+      <FileName>ReportingAgencyType.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
