@@ -1,7 +1,0 @@
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.Tasks\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.Tasks\bin\Debug\DesignPattern.Tasks.dll
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.Tasks\bin\Debug\DesignPattern.Tasks.pdb
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.Tasks\obj\Debug\DesignPattern.Tasks.dll
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.Tasks\obj\Debug\DesignPattern.Tasks.pdb
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.Tasks\bin\Debug\DesignPattern.DataAccess.dll
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.Tasks\bin\Debug\DesignPattern.DataAccess.pdb

@@ -1,7 +1,0 @@
-C:\Projects\Demo\build_output\app\Demo.Tests.dll
-C:\Projects\Demo\build_output\app\Demo.Tests.pdb
-C:\Projects\Demo\build_output\app\Demo.Tests.xml
-C:\Projects\Demo\Demo.Tests\obj\Release\ResolveAssemblyReference.cache
-C:\Projects\Demo\Demo.Tests\obj\Release\Demo.Tests.dll
-C:\Projects\Demo\Demo.Tests\obj\Release\Demo.Tests.xml
-C:\Projects\Demo\Demo.Tests\obj\Release\Demo.Tests.pdb

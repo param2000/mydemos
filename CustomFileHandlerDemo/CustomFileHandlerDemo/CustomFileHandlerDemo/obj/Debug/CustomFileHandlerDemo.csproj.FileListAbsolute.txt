@@ -1,5 +1,0 @@
-C:\Projects\CustomFileHandlerDemo\CustomFileHandlerDemo\CustomFileHandlerDemo\bin\CustomFileHandlerDemo.dll
-C:\Projects\CustomFileHandlerDemo\CustomFileHandlerDemo\CustomFileHandlerDemo\bin\CustomFileHandlerDemo.pdb
-C:\Projects\CustomFileHandlerDemo\CustomFileHandlerDemo\CustomFileHandlerDemo\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\CustomFileHandlerDemo\CustomFileHandlerDemo\CustomFileHandlerDemo\obj\Debug\CustomFileHandlerDemo.dll
-C:\Projects\CustomFileHandlerDemo\CustomFileHandlerDemo\CustomFileHandlerDemo\obj\Debug\CustomFileHandlerDemo.pdb

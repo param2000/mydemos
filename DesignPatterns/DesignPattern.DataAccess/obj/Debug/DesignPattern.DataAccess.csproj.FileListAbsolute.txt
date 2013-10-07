@@ -1,5 +1,0 @@
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.DataAccess\bin\Debug\DesignPattern.DataAccess.dll
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.DataAccess\bin\Debug\DesignPattern.DataAccess.pdb
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.DataAccess\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.DataAccess\obj\Debug\DesignPattern.DataAccess.dll
-C:\Projects\DEMOS\DesignPatterns\DesignPattern.DataAccess\obj\Debug\DesignPattern.DataAccess.pdb

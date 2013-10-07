@@ -1,9 +1,0 @@
-C:\Projects\ABCD123\ABCD123\bin\ABCD123.dll
-C:\Projects\ABCD123\ABCD123\bin\ABCD123.pdb
-C:\Projects\ABCD123\ABCD123\bin\ABCD123.xml
-C:\Projects\ABCD123\ABCD123\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\ABCD123\ABCD123\obj\Debug\ABCD123.Resources.resources
-C:\Projects\ABCD123\ABCD123\obj\Debug\ABCD123.vbproj.GenerateResource.Cache
-C:\Projects\ABCD123\ABCD123\obj\Debug\ABCD123.dll
-C:\Projects\ABCD123\ABCD123\obj\Debug\ABCD123.xml
-C:\Projects\ABCD123\ABCD123\obj\Debug\ABCD123.pdb
