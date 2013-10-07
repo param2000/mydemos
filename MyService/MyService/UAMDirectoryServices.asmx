@@ -1,1 +1,0 @@
-﻿<%@ WebService Language="VB" CodeBehind="UAMDirectoryServices.asmx.vb" Class="FHLBank.UamIntegration.UAMDirectoryServices" %>
